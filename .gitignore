@@ -1,8 +1,9 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-BeijingPM_train.csv
+BeijingPM_dataset.csv
 BeijingPM_test.csv
+BeijingPM_prediction.csv
 BeijingPM_imputed.csv
 BeijingPM_lagged.csv
 BeijingPM_datetime.csv

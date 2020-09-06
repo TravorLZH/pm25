@@ -1,6 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+obsolete/
 BeijingPM_dataset.csv
 BeijingPM_test.csv
 BeijingPM_prediction.csv

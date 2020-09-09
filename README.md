@@ -1,4 +1,5 @@
-PM2.5 Air quality prediction research
+PM2.5 Density Prediction based on a Two-Stage Rolling Forecast Model using
+LightGBM
 =====================================
 
 This repo is created for storing relevant programs used in my air quality
@@ -97,7 +98,10 @@ After data preprocessing, we begin analyzing the dataset itself.
 
 ## Feature engineering
 
-Work in progress...
+_Technical details about this section can be found in
+[`pm25_features.ipynb`][3]_
+
+This section will be available in my report that will be published.
 
 [1]: https://archive.ics.uci.edu/ml/datasets/PM2.5+Data+of+Five+Chinese+Cities
 [2]: BeijingPM20100101_20151231.csv
